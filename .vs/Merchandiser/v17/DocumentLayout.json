@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Merchandiser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\pointagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\pointagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\rapportprixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\rapportprixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\rapportingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\rapportingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\rapportqtecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\rapportqtecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\facingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\facingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\merchandiser.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\merchandiser.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\merchandiser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\merchandiser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|c:\\users\\admin\\source\\repos\\merchandiser\\merchandiser\\controllers\\merchandisercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4841F0A4-29E1-4B84-B2D4-3C92DF2EC4CC}|Merchandiser\\Merchandiser.csproj|solutionrelative:merchandiser\\controllers\\merchandisercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 270,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RapportPrixController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\RapportPrixController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\RapportPrixController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\RapportPrixController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\RapportPrixController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:24:54.42Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Program.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Program.cs",
+              "RelativeToolTip": "Merchandiser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:18:38.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Merchandiser\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\appsettings.Development.json",
+              "RelativeToolTip": "Merchandiser\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T20:51:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Merchandiser\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Merchandiser\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T20:38:58.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Merchandiser",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Merchandiser.csproj",
+              "RelativeDocumentMoniker": "Merchandiser\\Merchandiser.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Merchandiser.csproj",
+              "RelativeToolTip": "Merchandiser\\Merchandiser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T17:21:33.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RapportQteController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\RapportQteController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\RapportQteController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\RapportQteController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\RapportQteController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:55:08.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PointageController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\PointageController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\PointageController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\PointageController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\PointageController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwLgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:21:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\WeatherForecast.cs",
+              "RelativeToolTip": "Merchandiser\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:20:47.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Merchandiser.http",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Merchandiser.http",
+              "RelativeDocumentMoniker": "Merchandiser\\Merchandiser.http",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Merchandiser.http",
+              "RelativeToolTip": "Merchandiser\\Merchandiser.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T13:20:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MerchandiserController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\MerchandiserController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\MerchandiserController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\MerchandiserController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\MerchandiserController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwDoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:07:38.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\appsettings.json",
+              "RelativeDocumentMoniker": "Merchandiser\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\appsettings.json",
+              "RelativeToolTip": "Merchandiser\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T14:04:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacingController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\FacingController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\FacingController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\FacingController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\FacingController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:14:04.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:43:03.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:56:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RapportingController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\RapportingController.cs",
+              "RelativeDocumentMoniker": "Merchandiser\\Controllers\\RapportingController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Merchandiser\\Merchandiser\\Controllers\\RapportingController.cs",
+              "RelativeToolTip": "Merchandiser\\Controllers\\RapportingController.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAowFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:35:58.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
